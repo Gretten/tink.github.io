@@ -186,6 +186,13 @@ li::before {
 		margin: 0 auto;
 	}
 	
+	li::before {
+	height: 20px;
+	width: 20px;
+	left: -20px;
+	top: 21px;
+}
+	
 	.card {
 		width: 100%;
 	}
