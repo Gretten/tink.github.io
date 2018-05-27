@@ -182,7 +182,7 @@ li::before {
 }
 
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 320px) {
 	main {
 		margin: 0 auto;
 	}
