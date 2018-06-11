@@ -159,7 +159,7 @@ li::before {
 }
 
 
-/* @media screen and (min-width: 0 and max-width: 320px) {
+@media screen and (min-width: 0 and max-width: 320px) {
 	main {
 		width: 100%;
 	}
@@ -175,4 +175,4 @@ li::before {
 		width: 100%;
 	}
 }
- */
+
